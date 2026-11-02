@@ -1,4 +1,4 @@
 "Hello World! This is my checkpoint of my learning journey in the"
 "The Odin Project Full Stack Development and the path that I chose in this course is the JavaScript path."
 "I hope I'll be able to consistently be present and finish the course one step at a time and Insya-Allah landing a career as Full Stack Developer"
-"Amin!"
+"Amin! and I'm doing this for us Future Me!"
